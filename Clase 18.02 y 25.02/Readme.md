@@ -1,0 +1,3 @@
+## Actividades vistas en las clases correspondientes al 18/02/25 y 25/02/25.
+
+Se abordan ejercicios sobre introducción a programación con operadores, definición de funciones, bucles...
